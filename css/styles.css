@@ -172,6 +172,7 @@ button {
 .nav-btn:hover,
 .nav-btn:focus {
   color: var(--white-background);
+  background-color: var(--pressed-state);
 }
 
 .active-btn {
@@ -183,6 +184,7 @@ button {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: var(--dark);
 }
 
